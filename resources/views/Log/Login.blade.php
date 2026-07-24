@@ -207,7 +207,7 @@
 
 <div class="login-card">
 
-    <h1 class="login-logo">GestCongés</h1>
+    <h1 class="login-logo">Gestion Conges ISI</h1>
     <p class="login-subtitle">
         Plateforme de gestion des absences et congés<br>
         Direction des Ressources Humaines
